@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+downloads/*
+!downloads/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+chrome-sessions/
+
+data/images.json

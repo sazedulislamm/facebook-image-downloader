@@ -1,0 +1,14 @@
+{
+  "name": "facebook-image-downloader",
+  "version": "1.0.0",
+  "description": "Automatically collect and download publicly accessible images from Facebook pages",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "download": "node src/app.js"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.4"
+  }
+}
